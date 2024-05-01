@@ -1,0 +1,6 @@
+{
+  "loginUrl": "/login",
+  "signupUrl": "/signup",
+  "homeUrl": "/",
+  "baseUrl": "https://someurl.com"
+}

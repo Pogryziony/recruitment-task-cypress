@@ -1,0 +1,10 @@
+{
+  "name": "Macbook Pro",
+  "anotherName": "Samsung Galaxy S23",
+  "keyword": "electronics",
+  "minPrice": 100,
+  "maxPrice": 500,
+  "category": "laptops",
+  "brand": "Apple",
+  "minRating": 4
+}

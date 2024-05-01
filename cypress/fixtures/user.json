@@ -1,0 +1,9 @@
+{
+  "uniqueUsername": "testuser",
+  "existingUsername": "testuser123",
+  "email": "test@example.com",
+  "password": "Pa$$word123",
+  "invalidUsername": "invaliduser",
+  "invalidEmail": "invalidemail.com",
+  "invalidPassword": "pass"
+}
