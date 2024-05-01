@@ -1,4 +1,4 @@
-# E-commerce Website Testing with Cypress and Playwright
+# E-commerce Website Testing with Cypress
 
 This project is designed to validate the functionality of key features on an e-commerce website using Cypress with TypeScript. The tests cover user registration and login, product search and filter, and adding items to the cart.
 
