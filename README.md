@@ -70,7 +70,7 @@ recruitment-task/
 ├── node_modules/                     # Node.js modules (not tracked in version control)
 ├── cypress.config.js                 # Cypress configuration file
 ├── package.json                      # Project metadata and dependencies
-├── package-lock.json                 # Locked versions of the dependencies
+├── package-lock.json                 # Locked versions of the dependencies (not tracked in version control)
 │
 ├── README.md                         # Project documentation
 └── tsconfig.json                     # TypeScript configuration
