@@ -53,7 +53,7 @@ This project is just a showcase. It is not connected to a real e-commerce websit
 
 ## Project Structure
 ```perl
-Project structure including both cypress and playwright tests and their respective configurations:
+Project structure including cypress tests and its configuration:
 
 recruitment-task/
 │
