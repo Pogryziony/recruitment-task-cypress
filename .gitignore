@@ -1,0 +1,19 @@
+# Node dependencies
+/node_modules
+
+# IDE files
+.idea
+
+# Compiled files
+/dist
+
+# Cypress generated files
+/cypress/screenshots
+/cypress/videos
+
+# TypeScript build output
+/*.js
+/*.js.map
+
+# Dependency lock files
+/package-lock.json
